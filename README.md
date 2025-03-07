@@ -44,6 +44,8 @@ This script implements the LMS algorithm with a fixed filter order (`p = 3`) and
 - Estimated output signal and comparison with the original signal.
 - MSE convergence for the fixed configuration.
 
+![Signals y and y_hat for p=3, μ=0.08](./figure2.png)
+
 ---
 
 ## **Key Differences**
