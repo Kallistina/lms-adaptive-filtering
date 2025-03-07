@@ -23,6 +23,8 @@ This script explores the LMS algorithm for adaptive filtering with varying filte
 - Adaptive filter coefficients.
 - MSE convergence for multiple configurations.
 
+![Adaptive filtering via LMS with p=4](./figure1.png)
+
 ---
 
 ### **Project 3 - Question 3.2**
